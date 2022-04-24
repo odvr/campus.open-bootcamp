@@ -1,0 +1,4 @@
+name = "Hola Mi Nombre es David Vega"
+python = "Estoy Estoy empezando el curso de python"
+learning = "Espero aprender mucho"
+print('{},{},{}'.format(name,python,learning))
