@@ -1,0 +1,16 @@
+"""
+Created on Wed Apr 27 15:23:01 2022
+
+@author: Omar David Vega
+"""
+
+nombre = " Omar David "
+apellidos = "vega"
+edad = 23
+email = "odvega.co@gmail.com"
+telefono = 3232825739 
+casado = False
+con_hijos = False 
+lista_de_amigos =  ["Juan","Pedro","Camilo"]
+peliculas_vistas = {'cars':'genero infantil', 'el encanto': 'infantil ' }
+print("Mi nombre es {} mi apellido es {} mi edad es {} mi correo electronico {} mi telefono es {} casado {} con hijos{} mis amigos{} algunas peliculas que he visto".format(nombre,apellidos,edad,email,telefono,casado,con_hijos,lista_de_amigos,peliculas_vistas))
