@@ -14,3 +14,11 @@ con_hijos = False
 lista_de_amigos =  ["Juan","Pedro","Camilo"]
 peliculas_vistas = {'cars':'genero infantil', 'el encanto': 'infantil ' }
 print("Mi nombre es {} mi apellido es {} mi edad es {} mi correo electronico {} mi telefono es {} casado {} con hijos{} mis amigos{} algunas peliculas que he visto".format(nombre,apellidos,edad,email,telefono,casado,con_hijos,lista_de_amigos,peliculas_vistas))
+
+"""
+Segunda Entrega 
+"""
+peso = float(input("Cual es tu peso en Kg = "))
+altura = float(input ("Cual es tu altura, indica el valor en metros = "))
+masa_coporal = ((peso) / (altura)**2,2)
+print("Tu índice de masa corporal {}".format(masa_coporal))
