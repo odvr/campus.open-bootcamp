@@ -7,6 +7,8 @@ Una vez creada la tabla, tenéis que insertarle datos, como mínimo tenéis que 
 Por último, tienes que realizar una búsqueda de un alumno por nombre y mostrar los datos por consola.
 
 """
+
+
 import sqlite3
 
 con = sqlite3.connect("DBE1.db")
