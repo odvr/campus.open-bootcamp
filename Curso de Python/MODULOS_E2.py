@@ -8,6 +8,7 @@ En el caso de que sean más de las 7, se mostrará un mensaje y en caso contrari
 """
 import time
 
+
 def TiempoTrabajado():
     #[3] representa la posición donde se encuentra la hora en la tupla
     HoraActual =  time.localtime()[3]

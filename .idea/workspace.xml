@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f552dde2-778b-4735-b85c-c770920c581b" name="Changes" comment="Bibliotecas y GUI">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso de Python/DBE1.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso de Python/DB_E1.py" afterDir="false" />
+    <list default="true" id="f552dde2-778b-4735-b85c-c770920c581b" name="Changes" comment="Conexion de Bases de Datos">
+      <change afterPath="$PROJECT_DIR$/Curso de Python/if.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso de Python/DB_E1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso de Python/DB_E1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso de Python/IU_E2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso de Python/IU_E2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso de Python/MODULOS_E2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso de Python/MODULOS_E2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668101479098</updated>
-      <workItem from="1668221245440" duration="2886000" />
+      <workItem from="1668221245440" duration="12997000" />
     </task>
     <task id="LOCAL-00001" summary="Poo Python">
       <created>1668101628689</created>
@@ -137,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668219847592</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Conexion de Bases de Datos">
+      <created>1668224244836</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668224244836</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Conexion de Bases de Datos">
+      <created>1668224270688</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668224270688</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,9 +197,12 @@
     <MESSAGE value="Ejercicio de entrada y Salida de Datos" />
     <MESSAGE value="Guardar Bin" />
     <MESSAGE value="Bibliotecas y GUI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bibliotecas y GUI" />
+    <MESSAGE value="Conexion de Bases de Datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conexion de Bases de Datos" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/campus_open_bootcamp$DB_E1.coverage" NAME="DB_E1 Coverage Results" MODIFIED="1668224092243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso de Python" />
+    <SUITE FILE_PATH="coverage/campus_open_bootcamp$DB_E1.coverage" NAME="DB_E1 Coverage Results" MODIFIED="1668224807151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso de Python" />
+    <SUITE FILE_PATH="coverage/campus_open_bootcamp$IU_E2.coverage" NAME="IU_E2 Coverage Results" MODIFIED="1668268422135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso de Python" />
+    <SUITE FILE_PATH="coverage/campus_open_bootcamp$if.coverage" NAME="if Coverage Results" MODIFIED="1668291850478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso de Python" />
   </component>
 </project>

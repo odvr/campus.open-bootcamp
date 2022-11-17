@@ -1,0 +1,12 @@
+{
+  "name": "curso-js",
+  "version": "1.0.0",
+  "description": "Primer Modulo",
+  "main": "index.js",
+  "scripts": {
+    "bootcamp": "Hola este es mi primer ejercicio en Node en el mejor Bootcamp de programacion del Mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Vega",
+  "license": "ISC"
+}
