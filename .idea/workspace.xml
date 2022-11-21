@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f552dde2-778b-4735-b85c-c770920c581b" name="Changes" comment="Conexion de Bases de Datos">
-      <change afterPath="$PROJECT_DIR$/Curso de Python/if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso de Python/Hola.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso de Python/simple_graph.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/16feef0f-8606-4abe-a0c9-fddfcdf97552.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/16feef0f-8606-4abe-a0c9-fddfcdf97552.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7e51e441-c0a1-4201-9fc2-788ba8f9d054.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7e51e441-c0a1-4201-9fc2-788ba8f9d054.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Python/DB_E1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso de Python/DB_E1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Python/IU_E2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso de Python/IU_E2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso de Python/MODULOS_E2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso de Python/MODULOS_E2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso de Python/if.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,26 +46,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ovega/Desktop/Open/campus.open-bootcamp/Curso de Python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ovega/Desktop/Open/campus.open-bootcamp/Curso de Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql",
-      "sqlite"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;sqlite&quot;
     ]
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="dijkstra_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="campus.open-bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../dijkstra-algorithm-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../dijkstra-algorithm-master/dijkstra_algorithm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dijkstra_algorithm" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,6 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668101479098</updated>
       <workItem from="1668221245440" duration="12997000" />
+      <workItem from="1668732205095" duration="5059000" />
     </task>
     <task id="LOCAL-00001" summary="Poo Python">
       <created>1668101628689</created>
@@ -201,8 +232,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="Conexion de Bases de Datos" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/campus_open_bootcamp$Hola.coverage" NAME="Hola Coverage Results" MODIFIED="1668736418474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso de Python" />
     <SUITE FILE_PATH="coverage/campus_open_bootcamp$DB_E1.coverage" NAME="DB_E1 Coverage Results" MODIFIED="1668224807151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso de Python" />
     <SUITE FILE_PATH="coverage/campus_open_bootcamp$IU_E2.coverage" NAME="IU_E2 Coverage Results" MODIFIED="1668268422135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso de Python" />
-    <SUITE FILE_PATH="coverage/campus_open_bootcamp$if.coverage" NAME="if Coverage Results" MODIFIED="1668291850478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso de Python" />
+    <SUITE FILE_PATH="coverage/campus_open_bootcamp$dijkstra_algorithm.coverage" NAME="dijkstra_algorithm Coverage Results" MODIFIED="1668737334066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../dijkstra-algorithm-master" />
+    <SUITE FILE_PATH="coverage/campus_open_bootcamp$if.coverage" NAME="if Coverage Results" MODIFIED="1668733110922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso de Python" />
+    <SUITE FILE_PATH="coverage/campus_open_bootcamp$Pura_Calidad.coverage" NAME="Pura_Calidad Coverage Results" MODIFIED="1668734582258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Curso de Python" />
   </component>
 </project>
