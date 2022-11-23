@@ -1,0 +1,23 @@
+{
+  "name": "campus.open-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GErrores.js",
+  "scripts": {
+    "star": "Node GErrores.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odvr/campus.open-bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odvr/campus.open-bootcamp/issues"
+  },
+  "homepage": "https://github.com/odvr/campus.open-bootcamp#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}
