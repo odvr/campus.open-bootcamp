@@ -1,12 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Greetindf from './componentes/Puro/greetindf';
-import ListaTareasComponente from './componentes/Contenedores/lista_tareas';
-
-
-
-
-
 
 function App() {
   return (
@@ -16,13 +9,6 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>
-        {/*Componente de listado de tareas*/}
-        <ListaTareasComponente></ListaTareasComponente>
-      
-
-        </p>
-        
         <a
           className="App-link"
           href="https://reactjs.org"
